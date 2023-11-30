@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jw13k
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning java, csv
+- 🌱 I’m currently learning java, csv, python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me smilejw13@dongyang.ac.kr
 
